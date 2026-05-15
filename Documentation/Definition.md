@@ -1,4 +1,7 @@
+# Connect 4 Definition
+
 Opinto-ohjelma: Tietojenkäsittelytiede (HY), kandidaatin tutkinto
+
 As I am not sufficient enough in writing Finnish, the rest of the documentation and code will be in English. I am however good enough in English, Swedish and Finnish in order to give feedback on projects in any of these languages.
 
 The project is an optimal move finder for Connect 4, which can be tested by the user using the terminal.
