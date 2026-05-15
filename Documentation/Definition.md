@@ -17,3 +17,8 @@ The program recieves input in the form of a number 1-7. Using this, a connect-4 
 As the project is quite complicated, it is not possible to supply timing requirements at this point, before having started the project. The heuristic function will optimally be O(1).
 
 The core of the project is the algorithm itself that will find the best move. The method for doing this has been described above. The project will utilize alpha-beta pruning in order to find good moves faster.
+
+## Sources
+https://en.wikipedia.org/wiki/Minimax
+https://en.wikipedia.org/wiki/Alpha-beta_pruning
+https://en.wikipedia.org/wiki/Connect_Four
